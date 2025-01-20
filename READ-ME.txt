@@ -1,4 +1,4 @@
-  =>  Template Name    : CaterServ - Catering Services Website Template
+  =>  Template Name    : Vertex Packagings
 
   =>  Template Link    : https://htmlcodex.com/catering-services-website-template
 
